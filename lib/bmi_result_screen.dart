@@ -1,6 +1,6 @@
-import 'package:bmi_calculator/bmi_screen.dart';
+
 import 'package:flutter/material.dart';
-import 'bmi_calculator/bmi_screen.dart';
+import 'bmi_screen.dart';
 
 class BMIResultScreen extends StatelessWidget
 {
